@@ -1,3 +1,2 @@
-theme: minima
- include:
+include:
       README.md
